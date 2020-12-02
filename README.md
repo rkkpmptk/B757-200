@@ -1,6 +1,6 @@
-# Parallel-FS 757-200
+# ParallelFS 757-200
 
-Welcome to the GitHub repository for the Parallel 757-200, a community made 757.
+Welcome to the GitHub repository for the ParallelFS 757-200, a community made 757.
 
 ## Installation
 
@@ -16,4 +16,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/) is used for the Parallel 757-200 project. 
+[GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/) is used for the ParallelFS 757-200 project. 
