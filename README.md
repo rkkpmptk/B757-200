@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Parallel-FS 757-200
 
 Welcome to the GitHub repository for the Parallel 757-200, a community made 757.
@@ -18,7 +17,3 @@ Please make sure to update tests as appropriate.
 
 ## License
 [GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/) is used for the Parallel 757-200 project. 
-=======
-# ParallelFS Boeing 757-200
-The GitHub repo for the ParallelFS 757-200 Project
->>>>>>> parent of 1ca11e0... Update README.md
