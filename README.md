@@ -5,6 +5,16 @@ Welcome to the GitHub repository for the ParallelFS 757-200, a community made 75
 ## Join the ParallelFS Community
 You can follow this project and interact with the ParallelFS Community by joining the [ParallelFS Discord Server.](https://discord.gg/nGANtxDqbk)
 
+
+## Installation
+
+Installation is only for developers currently, just click the green 'Code' button then select 'Download Zip'
+
+## Usage
+
+The 757-200 is currently a "progressing development" which means that slowly we will begin to roll out features into a flyable branch that can be loaded into the simulator. For the time being, all files found on this page are development files.
+
+
 ## Q&A
 
 What Version of the 757 is this?
@@ -24,24 +34,7 @@ How can i contribute to the project?
 
 Link: https://github.com/ParallelFS-Development/B757-200
 
-
-
-
-
-
-
-
-
-
-
-## Installation
-
-Installation is only for developers currently, just click the green 'Code' button then select 'Download Zip'
-
-## Usage
-
-The 757-200 is currently a "progressing development" which means that slowly we will begin to roll out features into a flyable branch that can be loaded into the simulator. For the time being, all files found on this page are development files. 
-
+ 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
