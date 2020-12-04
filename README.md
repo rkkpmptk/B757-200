@@ -5,6 +5,25 @@ Welcome to the GitHub repository for the ParallelFS 757-200, a community made 75
 ## Join the ParallelFS Community
 You can follow this project and interact with the ParallelFS Community by joining the [ParallelFS Discord Server.](https://discord.gg/nGANtxDqbk)
 
+## Q&A
+
+Where can i download it?
+-It's not released yet
+
+When will it be released?
+-Q2-Q3 2021 if all goes well
+
+How much will it cost?
+-It's free.
+
+How can i contribute to the project?
+-placeholder-
+
+-placeholder-
+
+
+
+
 ## Installation
 
 Installation is only for developers currently, just click the green 'Code' button then select 'Download Zip'
