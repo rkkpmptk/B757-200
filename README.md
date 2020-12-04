@@ -7,19 +7,29 @@ You can follow this project and interact with the ParallelFS Community by joinin
 
 ## Q&A
 
+What Version of the 757 is this?
+-The 757-200
+
 Where can i download it?
--It's not released yet
+-It's not released yet.
 
 When will it be released?
--Q2-Q3 2021 if all goes well
+-Q2-Q3 2021 if all goes well.
 
 How much will it cost?
 -It's free.
 
 How can i contribute to the project?
--placeholder-
+-You can do a pull request on the B757-200 Github Page.
 
--placeholder-
+Link: https://github.com/ParallelFS-Development/B757-200
+
+
+
+
+
+
+
 
 
 
