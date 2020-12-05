@@ -26,15 +26,15 @@
             "values": [
               {
                 "name": "SPEED",
-                "valueStr": "Cruise: Mach 0.68, Max.: Mach 0.757"
+                "valueStr": "Cruise: Mach 0.8, Max.: Mach 0.8"
               },
               {
                 "name": "CEILING",
-                "valueStr": "39,100 – 39,800 ft"
+                "valueStr": "38,300 – 38,700 ft"
               },
               {
                 "name": "TYPICAL RANGE",
-                "valueStr": "6,500 km \/ 3,500 nmi"
+                "valueStr": "7250 km \/ 3,915 nmi"
               },
               {
                 "name": "LENGTH",
@@ -50,19 +50,19 @@
               },
               {
                 "name": "TAKEOFF",
-                "valueStr": "2911 m (9550 ft)"
+                "valueStr": "1,825 m (6000 ft)"
               },
               {
                 "name": "MAX WEIGHT",
-                "valueStr": "99,790 t (215,832 lb)"
+                "valueStr": "100,240 t (221,000 lb)"
               },
               {
                 "name": "MAX TAKEOFF WEIGHT",
-                "valueStr": "99,790 t (213,800 lb)"
+                "valueStr": "99,790 t (220,000 lb)"
               },
               {
                 "name": "FUEL CAPACITY",
-                "valueStr": "43,490 l (9566,46 USg)"
+                "valueStr": "42,680 l (11,276 USg)"
               },
               {
                 "name": "ENGINE",
