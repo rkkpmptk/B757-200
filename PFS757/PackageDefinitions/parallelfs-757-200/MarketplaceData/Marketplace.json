@@ -26,7 +26,7 @@
             "values": [
               {
                 "name": "SPEED",
-                "valueStr": "Cruise: Mach 0.68, Max.: Mach 0.82"
+                "valueStr": "Cruise: Mach 0.68, Max.: Mach 0.757"
               },
               {
                 "name": "CEILING",
@@ -38,31 +38,31 @@
               },
               {
                 "name": "LENGTH",
-                "valueStr": "37.57 m (123 ft 3 in)"
+                "valueStr": "47,32 m (155 ft 2 in)"
               },
               {
                 "name": "WINGSPAN",
-                "valueStr": "35.80 m (117 ft 5 in)"
+                "valueStr": "38,05 m (117 ft 5 in)"
               },
               {
                 "name": "HEIGHT",
-                "valueStr": "11.76 m (38 ft 7 in)"
+                "valueStr": "13,56 m (44 ft 5 in)"
               },
               {
                 "name": "TAKEOFF",
-                "valueStr": "1,988 m (6,522 ft)"
+                "valueStr": "2911 m (9550 ft)"
               },
               {
                 "name": "MAX WEIGHT",
-                "valueStr": "25.5 t (56,200 lb)"
+                "valueStr": "99,790 t (215,832 lb)"
               },
               {
                 "name": "MAX TAKEOFF WEIGHT",
-                "valueStr": "97 t (213,800 lb)"
+                "valueStr": "99,790 t (213,800 lb)"
               },
               {
                 "name": "FUEL CAPACITY",
-                "valueStr": "32,940 l (8,700 USg)"
+                "valueStr": "43,490 l (9566,46 USg)"
               },
               {
                 "name": "ENGINE",
