@@ -1,0 +1,16 @@
+:root {
+    --bodyHeightScale: 1;
+}
+
+#Electricity {
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(ellipse at center, rgba(19, 20, 19, 1) 0%, rgba(15, 18, 15, 1) 100%);
+}
+#Electricity[state=off] {
+    display: none;
+}
+
+p {
+  color: white;
+}
