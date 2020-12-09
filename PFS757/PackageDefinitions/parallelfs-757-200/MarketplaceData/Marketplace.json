@@ -3,11 +3,11 @@
     "Neutral": {
       "creator": "ParallelFS",
       "title": "ParallelFS Boeing 757-200",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Elit ut aliquam purus sit amet luctus venenatis lectus. Enim neque volutpat ac tincidunt vitae. Sed sed risus pretium quam vulputate dignissim suspendisse. Ipsum faucibus vitae aliquet nec ullamcorper sit amet. Neque volutpat ac tincidunt vitae semper quis lectus nulla at. Amet aliquam id diam maecenas ultricies mi. Lectus quam id leo in vitae turpis massa sed elementum. Egestas sed sed risus pretium quam. Nibh ipsum consequat nisl vel. Nibh tellus molestie nunc non blandit massa. Diam ut venenatis tellus in metus vulputate eu. Volutpat blandit aliquam etiam erat velit scelerisque. Eget dolor morbi non arcu risus.",
-      "tags": "AIRCRAFT,AIRLINER,MY CUSTOM TAG, ANOTHER AWESOME TAG",
+      "description": "",
+      "tags": "AIRCRAFT,AIRLINER",
       "thumbnail_main": "",
       "thumbnail_secondary": "",
-      "categories": "TT:MARKETPLACE.CATEGORY.AIRCRAFT\/TT:MARKETPLACE.CATEGORY.AIRCRAFT.PISTON",
+      "categories": "TT:MARKETPLACE.CATEGORY.AIRCRAFT\/TT:MARKETPLACE.CATEGORY.AIRCRAFT.AIRLINER",
       "media-backgrounds": [
         "placeholder3840x2160.jpg,placeholder3840x2160.jpg",
         "placeholder3840x2160.jpg,placeholder3840x2160.jpg",
@@ -26,115 +26,51 @@
             "values": [
               {
                 "name": "SPEED",
-                "valueStr": "Cruise: Mach 0.78, Max.: Mach 0.82"
+                "valueStr": "Cruise: Mach 0.8, Max.: Mach 0.8"
               },
               {
                 "name": "CEILING",
-                "valueStr": "39,100 – 39,800 ft"
+                "valueStr": "38,300 – 38,700 ft"
               },
               {
                 "name": "TYPICAL RANGE",
-                "valueStr": "6,500 km \/ 3,500 nmi"
+                "valueStr": "7250 km \/ 3,915 nmi"
               },
               {
                 "name": "LENGTH",
-                "valueStr": "37.57 m (123 ft 3 in)"
+                "valueStr": "47,32 m (155 ft 2 in)"
               },
               {
                 "name": "WINGSPAN",
-                "valueStr": "35.80 m (117 ft 5 in)"
+                "valueStr": "38,05 m (117 ft 5 in)"
               },
               {
                 "name": "HEIGHT",
-                "valueStr": "11.76 m (38 ft 7 in)"
+                "valueStr": "13,56 m (44 ft 5 in)"
               },
               {
                 "name": "TAKEOFF",
-                "valueStr": "1,988 m (6,522 ft)"
+                "valueStr": "1,825 m (6000 ft)"
               },
               {
                 "name": "MAX WEIGHT",
-                "valueStr": "25.5 t (56,200 lb)"
+                "valueStr": "100,240 t (221,000 lb)"
               },
               {
                 "name": "MAX TAKEOFF WEIGHT",
-                "valueStr": "97 t (213,800 lb)"
+                "valueStr": "99,790 t (220,000 lb)"
               },
               {
                 "name": "FUEL CAPACITY",
-                "valueStr": "32,940 l (8,700 USg)"
+                "valueStr": "42,680 l (11,276 USg)"
               },
               {
                 "name": "ENGINE",
-                "valueStr": "CFM LEAP-1A or PW1100G"
+                "valueStr": "PW2037 or RB211"
               },
               {
                 "name": "COCKPIT CREW",
                 "valueStr": "2"
-              }
-            ]
-          }
-        },
-        {
-          "type": "MEDIASLIDER",
-          "data": {
-            "medias": [
-              {
-                "thumbnail": "placeholder3236x1816.jpg"
-              },
-              {
-                "thumbnail": "placeholder3236x1816.jpg"
-              },
-              {
-                "thumbnail": "placeholder3236x1816.jpg"
-              }
-            ]
-          }
-        },
-        {
-          "type": "MEDIASCROLLER",
-          "data": {
-            "medias": [
-              {
-                "thumbnail": "placeholder940x530.jpg"
-              },
-              {
-                "thumbnail": "placeholder940x530.jpg"
-              }
-            ]
-          }
-        },
-        {
-          "type": "MEDIASLIDER",
-          "data": {
-            "medias": [
-              {
-                "thumbnail": "placeholder3236x1816.jpg"
-              }
-            ]
-          }
-        },
-        {
-          "type": "MEDIASCROLLER",
-          "data": {
-            "medias": [
-              {
-                "thumbnail": "placeholder940x530.jpg"
-              },
-              {
-                "thumbnail": "placeholder940x530.jpg"
-              },
-              {
-                "thumbnail": "placeholder940x530.jpg"
-              },
-              {
-                "thumbnail": "placeholder940x530.jpg"
-              },
-              {
-                "thumbnail": "placeholder940x530.jpg"
-              },
-              {
-                "thumbnail": "placeholder940x530.jpg"
               }
             ]
           }
@@ -149,41 +85,6 @@
                 },
                 "primaryHexaColor": "#3291A8",
                 "secondaryHexaColor": "#FFFFFF"
-              },
-              {
-                "media": {
-                  "thumbnail": "placeholder515x290.jpg"
-                },
-                "primaryHexaColor": "#FF8E5A",
-                "secondaryHexaColor": "#5ACBFF"
-              },
-              {
-                "media": {
-                  "thumbnail": "placeholder515x290.jpg"
-                },
-                "primaryHexaColor": "#4867FF",
-                "secondaryHexaColor": "#48FFE4"
-              },
-              {
-                "media": {
-                  "thumbnail": "placeholder515x290.jpg"
-                },
-                "primaryHexaColor": "#FFA85C",
-                "secondaryHexaColor": "#FFD15C"
-              },
-              {
-                "media": {
-                  "thumbnail": "placeholder515x290.jpg"
-                },
-                "primaryHexaColor": "#1E8538",
-                "secondaryHexaColor": "#85FF39"
-              },
-              {
-                "media": {
-                  "thumbnail": "placeholder515x290.jpg"
-                },
-                "primaryHexaColor": "#CFA479",
-                "secondaryHexaColor": "#BAAD92"
               }
             ]
           }

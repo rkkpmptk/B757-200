@@ -1,0 +1,38 @@
+<link rel="stylesheet" href="B757_200_EADI.css">
+
+<div id="Mainframe">
+  <div id="Electricity" state="on">
+    <div style="height: 0;">
+      <svg>
+        <defs>
+          <radialGradient id="EADIBacklight" cx="50%" cy="50%" r="75%">
+            <stop offset="0%" style="stop-color:rgb(19,20,19);stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:rgb(15,18,15);stop-opacity:1"/>
+          </radialGradient>
+        </defs>
+      </svg>
+    </div>
+    <div id="EADIScreen">
+        <div class="DefaultWrapper" id="DefaultDisplay">
+
+          <!-- Just for testing in-sim -->
+          <svg class="Default" viewBox="0 0 600 600">
+            <rect fill="url(#ECAMBacklight)" x="0" y="0" width="100%" height="100%"></rect>
+            <style>
+              .EADINum { fill: white; font: bold 30px sans-serif; }
+            </style>
+            <!-- <clipPath id="ground-cut">
+              <rect width="350" height="500" x="50%" y="50%" transform="translate(-175,0)"/>
+            </clipPath>
+            <clipPath id="side-cut">
+              <rect width="350" height="600" x="50%" y="50%" transform="translate(-175,-300)"/>
+            </clipPath>
+            <circle cx="50%" cy="50%" r="200" fill="rgb(10,84,155)" clip-path="url(#side-cut)"/>
+            <circle cx="50%" cy="50%" r="200" fill="rgb(188,125,46)" clip-path="url(#ground-cut)"/>
+            <line x1="125" y1="300" x2="475" y2="300" style="stroke:rgb(255,255,255);stroke-width:4" /> -->
+            <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle" class="EADINum">EADI</text>
+          </svg>
+        </div>
+      </div>
+  </div>
+</div>
